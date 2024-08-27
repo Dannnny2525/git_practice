@@ -39,7 +39,7 @@ begin
     end process;
     count <= pre_count;
 end Behavioral;
-
+```
 ![git status before stage](./img/git_stat.png)
 
 
